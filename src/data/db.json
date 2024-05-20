@@ -1,0 +1,1388 @@
+{
+  "products": [
+    {
+      "id": 205082351,
+      "name": "Apple",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "apple and Baramula",
+      "availableSizes": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Darron Miloscia",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "United Kingdom",
+          "rating": 5,
+          "date": "March 3, 2017",
+          "reviewTitle": "Thinking to buy another one!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Andres Papp",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Portugal",
+          "rating": 4,
+          "date": "March 3, 2020",
+          "reviewTitle": "Very good boots!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Twana Davinroy",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "Germany",
+          "rating": 3,
+          "date": "March 3, 2023",
+          "reviewTitle": "It can be better!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 80,
+          "text": "Rs.80 per Kg"
+        }
+      },
+      "brandName": "Apple",
+      "productCode": 132179002,
+      "imageUrl": "localhost:5173/src/assets/baramula3.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/baramula1.jpg",
+        "localhost:5173/src/assets/baramula2.jpeg",
+        "localhost:5173/src/assets/baramula3.jpeg",
+        "localhost:5173/src/assets/baramula4.jpeg"
+      ]
+    },
+    {
+      "id": 205107270,
+      "name": "Fish",
+      "description": "Anantnag - Fish Based Products: Anantnag district is known for its fish-based products due to its abundant water resources, including rivers and streams. Fish farming provides livelihood opportunities for many in the district and offers nutritious food options for consumers, contributing to local economy and dietary needs.",
+      "isInStock": true,
+      "District": "Anantnag",
+      "category": "fish and anantnag",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Mohit Rana",
+          "userImage": "/src/assets/aditya.jpeg",
+          "location": "Haryana",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product for women!",
+          "reviewText": "Absolutely fresh and delicious! The salmon fillets I received were perfectly packaged and tasted incredibly flavorful. Will definitely be ordering again!"
+        },
+        {
+          "username": "Yash Saxena",
+          "userImage": "/src/assets/yash.jpeg",
+          "location": "Mahoba UP",
+          "rating": 4,
+          "date": "March 3, 2022",
+          "reviewTitle": "Not perfect but very good!",
+          "reviewText": "As a seafood enthusiast, I can't recommend these tuna steaks enough. They arrived impeccably fresh and were a delight to cook. A must-try for any seafood lover!"
+        },
+        {
+          "username": "Rosenda Kukucka",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "I will buy 10 of these!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "Packed date ": "Within a day",
+      "price": {
+        "current": {
+          "value": 88,
+          "text": "Rs 88.00"
+        }
+      },
+      "brandName": "Snow Trout, Niger, Chush, Khront, Churu",
+      "productCode": 132236489,
+      "imageUrl": "localhost:5173/src/assets/fish1.jpg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/fish2.jpeg",
+        "localhost:5173/src/assets/fish3.jpeg",
+        "localhost:5173/src/assets/fish4.jpg",
+        "localhost:5173/src/assets/fish1.jpg"
+      ]
+    },
+    {
+      "id": 204349751,
+      "name": "Mutton",
+      "description": "Bandipora - Poultry/Mutton Products: Bandipora district specializes in poultry and mutton products, which are essential sources of protein and livelihood for many households. Poultry and mutton farming support rural economies and provide dietary diversity for consumers in the district.",
+      "isInStock": true,
+      "District": "Bandipora",
+      "category": "Mutton , Bandipora",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Veeram Jha",
+          "userImage": "/src/assets/veeram.jpeg",
+          "location": " Uttrakhand India",
+          "rating": 5,
+          "date": "May 30, 2023",
+          "reviewTitle": "The best mutton in the whole world!",
+          "reviewText": "Absolutely succulent! The mutton I received was incredibly tender and packed with flavor. It made for a perfect Sunday roast"
+        },
+        {
+          "username": "Anil Raj",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "China",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "This sneakers are golden!",
+          "reviewText": "Deliciously marbled and rich in taste, this mutton exceeded my expectations. It cooked beautifully and added a gourmet touch to my dinner party!"
+        },
+        {
+          "username": "Virat Kohli",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Mumbai",
+          "rating": 1,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product for women!",
+          "reviewText": "The quality of the mutton is top-notch. From the first bite, you can tell it's been sourced with care. Highly recommended for any meat lover!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "Packed date ": "Within a day",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "Rs 90.00"
+        }
+      },
+      "brandName": "Mutton",
+      "productCode": 126663939,
+      "imageUrl": "localhost:5173/src/assets/mutton1.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/mutton1.jpeg",
+        "localhost:5173/src/assets/mutton2.jpeg",
+        "localhost:5173/src/assets/mutton3.jpg",
+        "localhost:5173/src/assets/mutton4.jpg"
+      ]
+    },
+    {
+      "id": 204525730,
+      "name": "Milk Based Products ",
+      "description": ".Budgam - Milk Based Products: Budgam district is known for its milk-based products, which play a vital role in meeting the nutritional needs of the local population. Milk production supports rural livelihoods and contributes to the district's economy through dairy farming and processing.",
+      "isInStock": true,
+      "District": "Budgam",
+      "category": "Milk Based Product Budgam",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Rohit Sharma",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Lokhanvala",
+          "rating": 5,
+          "date": "January 3, 2023",
+          "reviewTitle": "I expected more from ODOP",
+          "reviewText": "it was Nyc"
+        },
+        {
+          "username": "Albert Eistein",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "England",
+          "rating": 4,
+          "date": "January 2, 1823",
+          "reviewTitle": "I like these Milk Products",
+          "reviewText": "After eating milk products of Budgam I invented all the formula of physics"
+        },
+        {
+          "username": "Art Colombo",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Senegal",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 210,
+      "productionDate": "with in a day",
+      "price": {
+        "current": {
+          "value": 100,
+          "text": " Rs 130.00"
+        }
+      },
+      "brandName": "Milk Based Product",
+      "productCode": 127493550,
+      "imageUrl": "localhost:5173/src/assets/milk1.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/milk1.jpeg",
+        "localhost:5173/src/assets/milk4.jpeg",
+        "localhost:5173/src/assets/milk3.jpeg",
+        "localhost:5173/src/assets/milk2.jpeg"
+      ]
+    },
+    {
+      "id": 204913684,
+      "name": "Olive Products",
+      "description": "Doda - Olive Products: Doda district specializes in olive products, offering economic opportunities for farmers and contributing to agricultural diversification. Olive cultivation provides an alternative crop and supports rural livelihoods in the district.",
+      "isInStock": false,
+      "District": "Doda",
+      "category": "Olive Products Doda",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Arun tej",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Tamil Naidu",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "If threre is 0 I would give it",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Shashank",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Mexico",
+          "rating": 3,
+          "date": "January 1, 2023",
+          "reviewTitle": "Good oil",
+          "reviewText": "nyc product"
+        },
+        {
+          "username": "vicky",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Delhi",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 40,
+      "productionDate": "2019-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 34.5,
+          "text": "Rs 84.50"
+        }
+      },
+      "brandName": "Olive Products",
+      "productCode": 130949144,
+      "imageUrl": "localhost:5173/src/assets/olive1.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/olive1.jpeg",
+        "localhost:5173/src/assets/olive2.jpeg",
+        "localhost:5173/src/assets/olive3'.jpeg",
+        "localhost:5173/src/assets/olive4.jpeg"
+      ]
+    },
+    {
+      "id": 204295159,
+      "name": "Fish Based Products",
+      "description": "Ganderbal - Fish Based Products: Ganderbal district is known for its fish-based products due to its abundant water resources, including rivers and streams. Fish farming provides livelihood opportunities for many in the district and offers nutritious food options for consumers, contributing to local economy and dietary needs.",
+      "isInStock": true,
+      "District": "Ganderbal",
+      "category": "Fish Based Products Ganderbal",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Kagiso Rabada",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "South Africa",
+          "rating": 4,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very good for males",
+          "reviewText": "yeah it was value for money"
+        },
+        {
+          "username": "Rishab Pant",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "New Delhi",
+          "rating": 5,
+          "date": "January 3, 2023",
+          "reviewTitle": "Simple and very good",
+          "reviewText": "I like it"
+        },
+        {
+          "username": "Tula Gunnip",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Egipt",
+          "rating": 5,
+          "date": "January 3, 2023",
+          "reviewTitle": "Good present for my boyfriend",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 59.99,
+          "text": "Rs 59.99"
+        }
+      },
+      "brandName": "Fish Based Products",
+      "productCode": 126448542,
+      "imageUrl": "localhost:5173/src/assets/fishbased1.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/fishbased1.jpeg",
+        "localhost:5173/src/assets/fishbased2.jpeg",
+        "localhost:5173/src/assets/fishbased3.jpeg",
+        "localhost:5173/src/assets/fishbased4.jpeg"
+      ]
+    },
+    {
+      "id": 205116880,
+      "name": "Milk Based Products",
+      "description": "Jammu - Milk Based Products: Kupwara district is known for its milk-based products, which play a vital role in meeting the nutritional needs of the local population. Milk production supports rural livelihoods and contributes to the district's economy through dairy farming and processing.",
+      "isInStock": true,
+      "District": "Jammu",
+      "category": "Milk Based Products Jammu",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "sachin tendulkar",
+          "userImage": "/src/assets/user profile photo 11.jpg",
+          "location": "Mumbai",
+          "rating": 3,
+          "date": "January 3, 2024",
+          "reviewTitle": "Good present for my friends",
+          "reviewText": "Absolutely succulent! The mutton I received was incredibly tender and packed with flavor. It made for a perfect Sunday roast"
+        },
+        {
+          "username": "manish ",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Bosnia",
+          "rating": 4,
+          "date": "February 3, 2023",
+          "reviewTitle": "Good and practical",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Trenton Schairer",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Germany",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 7,
+      "productionDate": "2013-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 75,
+          "text": " Rs 75.00"
+        }
+      },
+      "brandName": "Milk Based Products",
+      "productCode": 132249573,
+      "imageUrl": "localhost:5173/src/assets/milk2.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/milk2.jpeg",
+        "localhost:5173/src/assets/milk3.jpeg",
+        "localhost:5173/src/assets/milk4.jpeg",
+        "localhost:5173/src/assets/milk1.jpeg"
+      ]
+    },
+    {
+      "id": 205117227,
+      "name": "Spices",
+      "description": "Kathua - Spices: Kathua district specializes in spices, which are integral to its culinary tradition. Spice cultivation provides economic opportunities for farmers and adds flavor and diversity to local cuisine, contributing to the district's economy and cultural identity.",
+      "isInStock": false,
+      "District": "Kathua",
+      "category": "Spices of Kathua",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Rohit Kumar",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "gaziabad UP",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Spices are delicious!!"
+        },
+        {
+          "username": "Lal krishna Advani",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "India",
+          "rating": 4,
+          "date": "January 31, 2023",
+          "reviewTitle": "I like these spices",
+          "reviewText": "it has good taste!"
+        },
+        {
+          "username": "Riddhi",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Kanpur UP",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "This is excellent product by Kathua!",
+          "reviewText": "it was Nyc"
+        }
+      ],
+      "totalReviewCount": 11,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "Rs 90.00"
+        }
+      },
+      "brandName": "Spices",
+      "productCode": 132250056,
+      "imageUrl": "localhost:5173/src/assets/spices3.jpg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/spices1.jpg",
+        "localhost:5173/src/assets/spices2.jpeg",
+        "localhost:5173/src/assets/spices3.jpg",
+        "localhost:5173/src/assets/spices4.jpg"
+      ]
+    },
+    {
+      "id": 205170977,
+      "name": "Walnut",
+      "description": "Kishtwar - Walnut Products: Kishtwar district is famous for its walnut products, benefiting from its favorable climate for walnut cultivation. Walnut farming supports rural livelihoods and contributes to the district's economy through nut production and processing.",
+      "isInStock": true,
+      "District": "Kishtwar",
+      "category": "Walnut of Kishtwar",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Aditya Agrahari",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Badohi UP",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best Walnut for health!",
+          "reviewText": "Absolutely succulent! The walnut I received was incredibly tender and packed with flavor. It made for a perfect Sunday roast"
+        },
+        {
+          "username": "Veeram Jha",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Uttrakhand Rudrapur",
+          "rating": 4,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "I am very happy with this product, but it is not perfect!",
+          "reviewText": "it has good taste!"
+        },
+        {
+          "username": "Berta Ruediger",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "rajasthan",
+          "rating": 5,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 320,
+      "productionDate": "2017-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 129.99,
+          "text": "Rs 129.99"
+        }
+      },
+      "brandName": "Walnut",
+      "productCode": 132362851,
+      "imageUrl": "localhost:5173/src/assets/walnut1.jpg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/walnut1.jpg",
+        "localhost:5173/src/assets/walnut2.jpeg",
+        "localhost:5173/src/assets/walnut3.jpg",
+        "localhost:5173/src/assets/walnut4.jpeg"
+      ]
+    },
+    {
+      "id": 205170993,
+      "name": "Pickle",
+      "description": "Kulgam -Pickle: Kulgam district is known for its spices and pickles, which add flavor and diversity to local cuisine. Spice cultivation and pickle making provide economic opportunities for farmers and contribute to the district's economy and culinary tradition",
+      "isInStock": true,
+      "District": "Kulgam",
+      "category": "Pickle of Kulgam",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Manish Singh",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "Jammu",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Excellent present for Mother's birthday!",
+          "reviewText": "it has good taste!"
+        },
+        {
+          "username": "Anshu Singh",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Raebareli UP",
+          "rating": 5,
+          "date": "January 12, 2023",
+          "reviewTitle": "Sooo goood Pickles!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Hari",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "MP",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "The Best Pickles In The World!!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3200,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 94.99,
+          "text": "$94.99"
+        }
+      },
+      "brandName": "Pickles",
+      "productCode": 132362839,
+      "imageUrl": "localhost:5173/src/assets/pickles1.jpg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/pickles1.jpg",
+        "localhost:5173/src/assets/pickles2.jpeg",
+        "localhost:5173/src/assets/pickles3.jpg",
+        "localhost:5173/src/assets/pickles4.jpg"
+      ]
+    },
+    {
+      "id": 205171062,
+      "name": "Walnut Products",
+      "description": "Kupwara - Walnut Products: Kupwara district specializes in walnut products, offering economic opportunities for farmers and contributing to the district's economy.",
+      "isInStock": true,
+      "District": "Kupwara",
+      "category": "Walnut of Kupwara",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Benedict Pojar",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "England",
+          "rating": 3,
+          "date": "January 31, 2023",
+          "reviewTitle": "Solid sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Henry Buller",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Soo goood sneakers!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Egypt",
+          "rating": 1,
+          "date": "January 31, 2023",
+          "reviewTitle": "I want my money back",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3120,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 89.99,
+          "text": "Rs 89.99"
+        }
+      },
+      "brandName": "Walnut Product",
+      "productCode": 132362836,
+      "imageUrl": "localhost:5173/src/assets/walnutP.jpg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/walnutP.jpg",
+        "localhost:5173/src/assets/walnut2.jpeg",
+        "localhost:5173/src/assets/walnut3.jpg",
+        "localhost:5173/src/assets/walnut4.jpeg"
+      ]
+    },
+    {
+      "id": 205171114,
+      "name": "Millet",
+      "description": "Poonch - Millet Based Products: Poonch district specializes in millet-based products, which are nutritious and drought-resistant crops. Millet cultivation provides food security, income, and dietary diversity for farmers and consumers in the district.",
+      "isInStock": true,
+      "District": "Poonch",
+      "category": "Millet on Poonch",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Mohit Rana",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Unnao",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Excellent Millet",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Arun tej",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Jammu",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Very good and affordable Millet",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bryant Garns",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "August 31, 2023",
+          "reviewTitle": "Simple and elegant",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 230,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 109.99,
+          "text": "Rs 109.99"
+        }
+      },
+      "brandName": "Millet",
+      "productCode": 132362845,
+      "imageUrl": "localhost:5173/src/assets/millet2.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/millet1.jpeg",
+        "localhost:5173/src/assets/millet2.jpeg",
+        "localhost:5173/src/assets/millet3.jpeg"
+      ]
+    },
+    {
+      "id": 205171544,
+      "name": "Saffron",
+      "description": "Pulwama - saffron: Pulwama district is known for its safrron production, which play a crucial role in meeting the nutritional needs of the local population .farming supports rural livelihoods and contributes to the district's economy through milk production and processing.",
+      "isInStock": true,
+      "District": "Pulwama",
+      "category": " Saffron of Pulwama",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Jerald Rosemond",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "Soooo fantastic!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Elwood Winstone",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "These sneakers are sooo goood!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Claude Soots",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Denmark",
+          "rating": 4,
+          "date": "October 31, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5530,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 239.99,
+          "text": "Rs 239.99"
+        }
+      },
+      "brandName": "saffron",
+      "productCode": 132362844,
+      "imageUrl": "localhost:5173/src/assets/saffron1.jpg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/saffron1.jpg",
+        "localhost:5173/src/assets/saffron2.jpg",
+        "localhost:5173/src/assets/saffron3.jpg"
+      ]
+    },
+    {
+      "id": 203509790,
+      "name": "Kalari Cheese",
+      "description": "Rajouri : Kalari (Dogri:) is a traditional ripened cheese product indigenous to Rajouri, Poonch and Udhampur of Jammu province of Jammu and Kashmir state of India.",
+      "isInStock": true,
+      "District": "Rajauri",
+      "category": "Cheese of Rajouri",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Manish Singh",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Denmark",
+          "rating": 4,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "vivek",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Rampur",
+          "rating": 5,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "roli ji",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Mahoba UP",
+          "rating": 5,
+          "date": "November 29, 2022",
+          "reviewTitle": "I am happy with these Cheese...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 130,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 700,
+          "text": "Rs 700.00"
+        }
+      },
+      "brandName": "Cheese",
+      "productCode": 121204339,
+      "imageUrl": "localhost:5173/src/assets/cheese1.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/cheese1.jpeg",
+        "localhost:5173/src/assets/cheese2.jpeg",
+        "localhost:5173/src/assets/cheese3.jpeg"
+      ]
+    },
+    {
+      "id": 204525320,
+      "name": " Natural Honey",
+      "description": "Ramban - Honey: Ramban district specializes in honey production, benefiting from its diverse flora and favorable climate for beekeeping. Honey production provides economic opportunities for beekeepers and contributes to the district's economy and agricultural diversity.",
+      "isInStock": true,
+      "District": "Ramban",
+      "category": "Honey Ramban",
+      "availableSizes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Lalit",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Bihar",
+          "rating": 4,
+          "date": "November 31, 2022",
+          "reviewTitle": "Very good Honey...!!!",
+          "reviewText": "its healthy!"
+        },
+        {
+          "username": "Gaurav Singh",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Varanasi",
+          "rating": 5,
+          "date": "December 31, 2022",
+          "reviewTitle": "Excellent for my kid!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3770,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 105,
+          "text": "Rs 105.00"
+        }
+      },
+      "brandName": "Honey",
+      "productCode": 127493551,
+      "imageUrl": "localhost:5173/src/assets/honey.jpg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/honey.jpg",
+        "localhost:5173/src/assets/honey2.jpg",
+        "localhost:5173/src/assets/honey3.jpg",
+        "localhost:5173/src/assets/honey4.jpg"
+      ]
+    },
+    {
+      "id": 205136837,
+      "name": "Tikki Masala",
+      "description": "The most famous product of Reasi district is a unique masala called  Tikki Masala. It's a blend of spices with potential medicinal and nutritional properties. Tikki Masala is traditionally made by rural women in Reasi and is gaining popularity due to its taste and health benefits.",
+      "isInStock": true,
+      "District": "Reasi",
+      "category": "Spices of Reasi",
+      "availableSizes": [
+        1
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Richa",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Uttrakhand Rudrapur",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with this Spices...!!!",
+          "reviewText": "good taste!"
+        },
+        {
+          "username": "Kriahna",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Mathura",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent Masala...!!!",
+          "reviewText": "tatsefull!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 80,
+          "text": "Rs 131.00"
+        }
+      },
+      "brandName": "Tikki Masala",
+      "productCode": 132292785,
+      "imageUrl": "localhost:5173/src/assets/tikkim.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/tikkim.jpeg",
+        "localhost:5173/src/assets/tikki2.jpeg",
+        "localhost:5173/src/assets/tikki3.jpeg",
+        "localhost:5173/src/assets/tikki1.jpeg"
+      ]
+    },
+    {
+      "id": 205102248,
+      "name": "Kashmiri Gucchi mushroom",
+      "description": "Samba district specializes in mushroom products, offering economic opportunities for farmers and contributing to the district's economy. Mushroom cultivation provides an alternative crop and supports rural livelihoods in the district.",
+      "isInStock": true,
+      "District": "Samba",
+      "category": "Mushroom of Samba",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Amit Das",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Merrut",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "value for money!"
+        },
+        {
+          "username": "Yash Saxena",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Mahoba UP",
+          "rating": 2,
+          "date": "January 31, 2022",
+          "reviewTitle": "Not good at all!!!",
+          "reviewText": "ok type!"
+        },
+        {
+          "username": "Val Nak",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "England",
+          "rating": 3,
+          "date": "January 31, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3,
+      "productionDate": "2012-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 520,
+          "text": "Rs 220.00"
+        }
+      },
+      "brandName": "Mushroom",
+      "productCode": 132229756,
+      "imageUrl": "localhost:5173/src/assets/mushrom1.jpg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/mushrom1.jpg",
+        "localhost:5173/src/assets/mushrom2.jpeg",
+        "localhost:5173/src/assets/mushrom3.jpeg",
+        "localhost:5173/src/assets/mushrom4.jpeg"
+      ]
+    },
+    {
+      "id": 205102326,
+      "name": "Apple",
+      "description": "Shopian -Apple: They are known for their crispiness, delicious taste, and appealing aroma.",
+      "isInStock": true,
+      "District": "Shopian",
+      "category": "Shopian Apple",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Koyal",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "india",
+          "rating": 2,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Val Nak",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Belgium",
+          "rating": 3,
+          "date": "Februrary 31, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Omar Wolfendale",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Romania",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I won't buy these sneakers again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 330,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 140,
+          "text": "Rs 147.00"
+        }
+      },
+      "brandName": "Apple",
+      "productCode": 132229752,
+      "imageUrl": "localhost:5173/src/assets/applem.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/applem.jpeg",
+        "localhost:5173/src/assets/apples1.jpeg",
+        "localhost:5173/src/assets/apple2.jpeg"
+      ]
+    },
+    {
+      "id": 205102335,
+      "name": "Kashmiri Carpets:",
+      "description": "Srinagar: Kashmiri Carpets: The art of carpet weaving has been a cornerstone of Srinagar's culture for centuries.  Some believe it was introduced in the 15th century, and the skills have been passed down through generations, creating a unique heritage.",
+      "isInStock": true,
+      "District": "Srinagar",
+      "category": "Carpet Srinagar",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "Forrest Grazian",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Senegal",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I won't buy these slippers again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Nathanial Vensel",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Portugal",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Sammy Canet",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Denmark",
+          "rating": 2,
+          "date": "February 21, 2022",
+          "reviewTitle": "Rating of 2 is more than enough",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 123,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 400,
+          "text": "Rs400.00"
+        }
+      },
+      "brandName": "Kashmiri Carpet",
+      "productCode": 132229761,
+      "imageUrl": "localhost:5173/src/assets/carpetm.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/carpetm.jpeg",
+        "localhost:5173/src/assets/carpet1.jpeg",
+        "localhost:5173/src/assets/carpet2.jpeg",
+        "localhost:5173/src/assets/carpet3.jpeg"
+      ]
+    },
+    {
+      "id": 205102350,
+      "name": "Basohli Pashmina (shaul)",
+      "description": "Udhampur: Basohli Pashmina:While pashmina shawls are renowned across India, Udhampur takes pride in its Basohli Pashmina.  Made from the incredibly soft and fine underfurs of Changthangi goats, these shawls are known for their exceptional quality, warmth, and delicate feel.  The weaving techniques employed in Basohli create beautiful and intricate designs, making these shawls a luxurious and treasured possession.  Basohli Pashmina has also been awarded a GI tag, signifying its unique characteristics and origin.",
+      "isInStock": true,
+      "District": "Udhampur",
+      "category": "Shaul Udhampur",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Riya Singh",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Varanasi",
+          "rating": 4,
+          "date": "February 21, 2022",
+          "reviewTitle": "Rating of 4 is more than enough",
+          "reviewText": "perfect"
+        },
+        {
+          "username": "Sia Sharma",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Kashmir",
+          "rating": 5,
+          "date": "February 21, 2022",
+          "reviewTitle": "Excellent shauls",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Rohit Singh",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Banglore",
+          "rating": 3,
+          "date": "February 21, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "can be more fitted"
+        }
+      ],
+      "totalReviewCount": 430,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 400,
+          "text": "Rs 400.00"
+        }
+      },
+      "brandName": "Shaul",
+      "productCode": 132229753,
+      "imageUrl": "localhost:5173/src/assets/shaul1.jpeg",
+      "additionalImageUrls": [
+        "localhost:5173/src/assets/shaul1.jpeg",
+        "localhost:5173/src/assets/shaul2.jpeg",
+        "localhost:5173/src/assets/shaul3.jpeg",
+        "localhost:5173/src/assets/shaul4.jpeg"
+      ]
+    }
+  ],
+  "user": [
+    {
+      "id": "Y5t2cpobicJGAsWbqk1UC",
+      "name": "Riya",
+      "lastname": "Singh",
+      "email": "riyasingh16111@gmail.com",
+      "phone": "06388490226",
+      "adress": "up - noidaa",
+      "password": "123456",
+      "userWishlist": []
+    },
+    {
+      "id": "M9-XMjqRywVoOwpX1FCnY",
+      "name": "Achal Pratap",
+      "lastname": "Singh",
+      "email": "achalpratap@gmail.com",
+      "phone": "7991257408",
+      "adress": "up - noidaa",
+      "password": "123456",
+      "userWishlist": []
+    },
+    {
+      "id": "0Yq8rIGYt-ji-uhrEKXBL",
+      "name": "Achal ",
+      "lastname": "Singh",
+      "email": "achal@gmail.com",
+      "phone": "7991257408",
+      "adress": "up Raebareli",
+      "password": "123456",
+      "userWishlist": []
+    },
+    {
+      "id": "QZN2vzTw1_k7zsL7PmrpK",
+      "name": "Ajay",
+      "lastname": "Kumar",
+      "email": "7645454@gmail.com",
+      "phone": "789620520",
+      "adress": "achalpratap@gmail.com",
+      "password": "123456",
+      "userWishlist": []
+    },
+    {
+      "id": "svtMAeOTUm9_OzVE7a27y",
+      "name": "12345",
+      "lastname": "1234",
+      "email": "sdfgh@gmail",
+      "phone": "asdfg",
+      "adress": "achalpratap@gmail.com",
+      "password": "123456",
+      "userWishlist": []
+    },
+    {
+      "id": "WnRyUfBsFmHvu1zgZWKYG",
+      "name": "Shivam",
+      "lastname": "Badani",
+      "email": "shivam@gmail.com",
+      "phone": "4563154631",
+      "adress": "Noida",
+      "password": "123456",
+      "userWishlist": []
+    }
+  ],
+  "orders": [
+    {
+      "userId": "Y5t2cpobicJGAsWbqk1UC",
+      "orderStatus": "in progress",
+      "subtotal": 480,
+      "cartItems": [
+        {
+          "id": 205082351,
+          "title": "Apple",
+          "image": "localhost:5173/src/assets/baramula1.jpg",
+          "rating": 4,
+          "price": 80,
+          "brandName": "Apple",
+          "amount": 6,
+          "selectedSize": 37,
+          "isInWishList": false
+        }
+      ],
+      "id": 10
+    },
+    {
+      "userId": "QZN2vzTw1_k7zsL7PmrpK",
+      "orderStatus": "in progress",
+      "subtotal": 12560,
+      "cartItems": [
+        {
+          "id": 205082351,
+          "title": "Apple",
+          "image": "localhost:5173/src/assets/baramula3.jpeg",
+          "rating": 4,
+          "price": 80,
+          "brandName": "Apple",
+          "amount": 87,
+          "selectedSize": 37,
+          "isInWishList": false
+        },
+        {
+          "id": 205102350,
+          "title": "Basohli Pashmina (shaul)",
+          "image": "localhost:5173/src/assets/shaul1.jpeg",
+          "rating": 4,
+          "price": 400,
+          "brandName": "Shaul",
+          "amount": 14,
+          "selectedSize": 40,
+          "isInWishList": false
+        }
+      ],
+      "id": 11
+    }
+  ]
+}
