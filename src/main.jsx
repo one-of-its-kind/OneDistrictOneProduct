@@ -8,7 +8,7 @@ import { Provider } from "react-redux";
 import "react-toastify/dist/ReactToastify.css";
 
 const corsOptions = {
-  origin: "https://one-district-one-product-rei05ykn3-achal-pratap-singhs-projects.vercel.app",
+  origin: "https://one-district-one-product-git-main-achal-pratap-singhs-projects.vercel.app/",
   optionsSuccessStatus: 200,
 };
 
