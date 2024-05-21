@@ -8,11 +8,11 @@ import { Provider } from "react-redux";
 import "react-toastify/dist/ReactToastify.css";
 
 const corsOptions = {
-  origin: "https://one-district-one-product-git-main-achal-pratap-singhs-projects.vercel.app/",
+  origin: "https://one-district-one-product-blush.vercel.app/",
   optionsSuccessStatus: 200,
 };
 
-// app.use(cors(corsOptions));
+app.use(cors(corsOptions));
 
 ReactDOM.createRoot(document.getElementById("root")).render(
     <Provider store={store}>
